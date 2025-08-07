@@ -2,9 +2,8 @@
 
 |Aula                 | Conteúdo |
 | ----------------------------------------------------------------| |
-
-1. Aula 01 - 06/08/2025 | [Introdução](../_Disciplina/docs/Intro.pdf) a Computação Gráfica |
-2. Aula 02 - 13/08/2025 | [Computação Visual](../docs/Intro_Computação_Visual.pdf) e [Bibliotecas Gráficas](../_Disciplina/docs/Bibliotecas_Graficas.pdf)|
+1. Aula 01 - 06/08/2025 | [Introdução](../Disciplina/docs/Intro.pdf) a Computação Gráfica |
+2. Aula 02 - 13/08/2025 | [Computação Visual](../Disciplina/docs/Intro_Computação_Visual.pdfIntro_Computação_Visual.pdf) e [Bibliotecas Gráficas](../Disciplina/docs/Bibliotecas_Graficas.pdf)|
 3. Aula 03 - 20/08/2025 |   |
 4. Aula 04 - 27/08/2025 |  |
 
